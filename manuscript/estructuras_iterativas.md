@@ -47,7 +47,7 @@ for(i in seq_along(observaciones)) {
 
 # Mostramos por pantalla la media
 media
-[1] 25.11
+[1] 24.44
 ```
 
 #### Bucles __`for`__ Anidados
@@ -73,9 +73,9 @@ for(i in 1:nrow(m1)) {
 # Mostramos por pantalla la suma de m1+m2
 suma
      [,1] [,2] [,3]
-[1,]   78  124  121
-[2,]   80   37  118
-[3,]   71  128   76
+[1,]  137   24  136
+[2,]  159   87  124
+[3,]  120   48  164
 ```
 
 El siguiente ejemplo sirve para ejemplificar el anidamiento de bucles `for`. Cada uno con su propio bloque de instrucciones y manejado con su propio índice. Es decir, `i` controla las filas de las matrices y `j` las columnas.
@@ -175,12 +175,12 @@ m <-
 # Mostramos por pantalla `m`
 m
      [,1] [,2] [,3] [,4] [,5] [,6]
-[1,]    9    2    9    5    4    2
-[2,]    5    4    5    3    1    2
-[3,]    9    3    1    6    9    8
-[4,]    5    7    1    2    8    5
-[5,]    3    9    7    4    2    3
-[6,]    2    3   10   10    1   10
+[1,]    7    6    7    5    1    4
+[2,]    2    5    8    4    3   10
+[3,]    1    3    7    6    2    5
+[4,]   10    6    5    3    2    3
+[5,]    5   10   10    1   10    7
+[6,]    8    9    4    6    3    6
 
 # Creamos un vector para la diagonal principal
 diagonal_principal <- vector(mode = "integer", length = nrow(m))
@@ -202,16 +202,16 @@ for (i in 1:nrow(m)) {
 
 # Mostramos por pantalla diagonal principal
 diagonal_principal
-[1]  9  4  1  2  2 10
+[1]  7  5  7  3 10  6
 # Mostraamos por pantalla matriz inferior de m
 m
      [,1] [,2] [,3] [,4] [,5] [,6]
-[1,]    9    2    9    5    4    2
-[2,]    0    4    5    3    1    2
-[3,]    0    0    1    6    9    8
-[4,]    0    0    0    2    8    5
-[5,]    0    0    0    0    2    3
-[6,]    0    0    0    0    0   10
+[1,]    7    6    7    5    1    4
+[2,]    0    5    8    4    3   10
+[3,]    0    0    7    6    2    5
+[4,]    0    0    0    3    2    3
+[5,]    0    0    0    0   10    7
+[6,]    0    0    0    0    0    6
 ```
 
 Examinaremos brevemente ahora el código anterior, como se puede observar en primer lugar se define una matriz cuadrada de 6 x 6 y creamos un vector de tipo entero con una longitud de 6 que en el momento de su inicialización contiene todos sus valores igual a cero.

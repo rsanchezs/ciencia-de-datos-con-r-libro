@@ -63,6 +63,7 @@ entre 0 y 1. Si el valor es mayor que `0.5`, entonces el mensaje será mostrado:
 if (runif(1) > 0.5) {
   message("Este mensaje aparece con un 50% de probabilidad.")
 }
+Este mensaje aparece con un 50% de probabilidad.
 ```
 
 
@@ -118,7 +119,7 @@ El siguiente ejemplo nos sirve para mostrar el anidamiento de instrucciones `if-
 # Creamos una muestra de 20 observaciones del 1 al 100 en
 # el que se pueden repetir hasta 2 observaciones
 (muestra <- sample(1:100, 20, 2))
- [1] 94 29 70 12 98 15 62 89 46 73 63 25 34 28 47 60 72 34 48 27
+ [1] 20 22 12 21 69 31 62 35 17 76 37 87 15 40 49 95 22 33 96 24
 
 ## Creamos una variable indicando la medida de tendencia central
 ## que queremos calcular
@@ -140,7 +141,7 @@ if (centralizacion == "moda") {
   message("Este algoritmo sola calcula la media,
           mediana, moda")
 }
-La media es 51.3
+La media es 43.15
 ```
 
 #### __`If`__ Vectorizado
@@ -188,7 +189,7 @@ números aleatorios de un distribución binomial simulando el lanzamiento de una
 ```r
 ifelse(rbinom(n = 10, size = 1, prob = 0.5),
        "cara", "cruz")
- [1] "cruz" "cara" "cruz" "cruz" "cara" "cara" "cara" "cruz" "cruz" "cruz"
+ [1] "cruz" "cruz" "cara" "cruz" "cruz" "cruz" "cruz" "cara" "cara" "cruz"
 ```
 
 No obstante, `if(test) yes else no` es mucho mas eficiente y preferible a `ifelse(test, yes, no)` cuando `test` es decir, la
@@ -237,8 +238,7 @@ Una alternativa al ejemplo presentado en el apartado anterior mediante la funci�
 # Creamos una muestra de 20 observaciones del 1 al 100 en
 # el que se pueden repetir hasta 2 observaciones
 (muestra <- sample(1:100, 20, 2))
- [1]  27  31  25  79  20  34  12  49  43  29   3  40  30  76  25  84  38
-[18]  83  20 100
+ [1] 93 40 32 27 27 98 45 32 28 83 28  5 44 56 18 92 24  3 48 78
 
 
 #Calculamos la media de la muestra
@@ -248,7 +248,7 @@ Una alternativa al ejemplo presentado en el apartado anterior mediante la funci�
   mediana = median(muestra),
   moda = mlv(muestra, method = "mfv")
 ))
-[1] 42.4
+[1] 45.05
 ```
 
 Si ningún nombre coincide, entonces `switch` devuelve `NULL`:

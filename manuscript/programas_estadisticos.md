@@ -71,7 +71,7 @@ Installing package into 'C:/Users/Ruben/Documents/R/win-library/3.3'
 package 'haven' successfully unpacked and MD5 sums checked
 
 The downloaded binary packages are in
-	C:\Users\Ruben\AppData\Local\Temp\RtmpaaL1Wv\downloaded_packages
+	C:\Users\Ruben\AppData\Local\Temp\Rtmpas1Kms\downloaded_packages
 ```
 
 ```r
@@ -86,7 +86,7 @@ read_sas("data/iris.sas7bdat")
 ```
 
 ```
-Error: 'data/iris.sas7bdat' does not exist in current working directory ('C:/Users/Ruben/Documents/RStudioProjects/ciencia-de-datos-con-r/manuscript').
+Error: 'data/iris.sas7bdat' does not exist in current working directory ('C:/Users/Ruben/Documents/RStudioProjects/ciencia-de-datos-con-r-libro/manuscript').
 ```
 
 

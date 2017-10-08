@@ -54,7 +54,7 @@ function (x, df1, df2, ncp, log = FALSE)
         .Call(C_df, x, df1, df2, log)
     else .Call(C_dnf, x, df1, df2, ncp, log)
 }
-<bytecode: 0x0000000004860c98>
+<bytecode: 0x00000000096e6678>
 <environment: namespace:stats>
 ```
 
@@ -89,7 +89,7 @@ function (x, df1, df2, ncp, log = FALSE)
         .Call(C_df, x, df1, df2, log)
     else .Call(C_dnf, x, df1, df2, ncp, log)
 }
-<bytecode: 0x0000000004860c98>
+<bytecode: 0x00000000096e6678>
 <environment: namespace:stats>
 ```
 
@@ -161,7 +161,7 @@ function (x, df1, df2, ncp, log = FALSE)
         .Call(C_df, x, df1, df2, log)
     else .Call(C_dnf, x, df1, df2, ncp, log)
 }
-<bytecode: 0x0000000004860c98>
+<bytecode: 0x00000000096e6678>
 <environment: namespace:stats>
 ```
 
@@ -327,7 +327,7 @@ function (x, df1, df2, ncp, log = FALSE)
         .Call(C_df, x, df1, df2, log)
     else .Call(C_dnf, x, df1, df2, ncp, log)
 }
-<bytecode: 0x0000000004860c98>
+<bytecode: 0x00000000096e6678>
 <environment: namespace:stats>
 ```
 
@@ -427,7 +427,7 @@ excel_sheets("data/datasets.xlsx")
 ```
 
 ```
-Error: 'data/datasets.xlsx' does not exist in current working directory ('C:/Users/Ruben/Documents/RStudioProjects/ciencia-de-datos-con-r/manuscript').
+Error: 'data/datasets.xlsx' does not exist in current working directory ('C:/Users/Ruben/Documents/RStudioProjects/ciencia-de-datos-con-r-libro/manuscript').
 ```
 
 
