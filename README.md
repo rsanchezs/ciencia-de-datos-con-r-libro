@@ -1,4 +1,4 @@
-
+ 
 # Ciencia de Datos con R
 
 
@@ -7,7 +7,7 @@ La __Ciencia de Datos__ en una disciplina apasionante que permite analizar datos
 Después de seguir este curso, dispondrás de los útiles necesarios para afrontar una amplia variedad de tareas en el análisis de datos, usando las mejores partes de R.
 
 
-Este es el __libro en español más completo y exhaustivo__ que encontrarás sobre <a href=https://leanpub.com/ciencia-de-datos-con-r  target="_blank">Ciencia de Datos con R</a>, usa el mismo material desarrollado como parte del <a href=https://www.udemy.com/ciencia-de-datos-con-r target="_blank">curso</a>en Ciencia de Datos con R de la plataforma Udemy. Perfectamente organizado y metódico, introduce todos los temas de forma sencilla, gradual y 100% práctica.
+Este es el __libro en español más completo y exhaustivo__ que encontrarás sobre <a href=https://leanpub.com/ciencia-de-datos-con-r  target="_blank">Ciencia de Datos con R</a>, usa el mismo material desarrollado como parte del <a href=https://www.udemy.com/ciencia-de-datos-con-r target="_blank">curso</a> en Ciencia de Datos con R de la plataforma Udemy. Perfectamente organizado y metódico, introduce todos los temas de forma sencilla, gradual y 100% práctica.
 
 
 ## ¿Que Aprenderás con este Libro?
