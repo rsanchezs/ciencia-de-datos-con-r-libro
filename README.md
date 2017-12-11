@@ -20,7 +20,7 @@ El objetivo de este libro es proporcionarte unos fundamentos sólidos en la gran
 
 ## ¿Cómo esta Organizado este Libro?
 
-El curso está organizado de acuerdo con las herramientas necesarias en un proyecto típico de Ciencia de Datos, en el orden en que las usaremos en nuestros análisis de datos.
+El libro está organizado de acuerdo con las herramientas necesarias en un proyecto típico de Ciencia de Datos, en el orden en que las usaremos en nuestros análisis de datos.
 
 ### Programación en R
 
