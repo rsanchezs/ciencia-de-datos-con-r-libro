@@ -9,7 +9,7 @@
 
 <p align="justify">La <strong>Ciencia de Datos </strong>es una disciplina apasionante que permite analizar datos para extraer conocimiento o un mejor entendimiento de datos en sus diferentes formas. El objetivo principal de <a href="https://leanpub.com/ciencia-de-datos-con-r/c/CSI5qnSGUUkL" target="_blank">Ciencia de Datos con R</a>
 es ayudarte a aprender las herramientas mas importantes en R que te permitirán abordar un proyecto típico en Ciencia de Datos.
-Después de seguir este curso, dispondrás de los útiles necesarios para afrontar una amplia variedad de tareas en el análisis de datos, usando las mejores partes de R.</p>
+Después de seguir este libro, dispondrás de los útiles necesarios para afrontar una amplia variedad de tareas en el análisis de datos, usando las mejores partes de R.</p>
 
 
 <p align="justify">Definitivamente, se trata del <strong>libro en español más completo y exhaustivo</strong> que encontrarás sobre análisis de datos con R. Perfectamente organizado y metódico, introduce todos los temas de forma sencilla, gradual y 100% práctica. </p>
@@ -98,5 +98,14 @@ __Sígueme en:__
 <a href="https://twitter.com/rsanchezs76" target="_blank"><img src="https://i.imgur.com/DF48Oy0.png"></a>
 <a href="https://datasciencesexy.wordpress.com/" target="_blank"><img src="https://i.imgur.com/GqYvC8A.png"></a>
 <a href="https://www.youtube.com/channel/UCmM75BqRDZ1_6Ug5fZjD-Dg?view_as=subscriber" target="_blank"><img src="https://i.imgur.com/NmPCBRQ.png"></a>
+
+
+https://imgur.com/DO2BKK7
+
+https://i.imgur.com/DO2BKK7.png
+
+
+<a href="https://imgur.com/DO2BKK7"><img src="https://i.imgur.com/DO2BKK7.png" title="source: imgur.com" /></a>
+
 
 
