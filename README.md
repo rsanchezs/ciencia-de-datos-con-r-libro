@@ -18,7 +18,7 @@ El objetivo de este libro es proporcionarte unos fundamentos sólidos en la gran
 
 ![Fases Proyecto en Ciencia de Datos](https://i.imgur.com/DO2BKK7.png)
 
-## ¿Cómo esta Organizado este Libro?
+## ¿Cómo Está Organizado Este Libro?
 
 El libro está organizado de acuerdo con las herramientas necesarias en un proyecto típico de Ciencia de Datos, en el orden en que las usaremos en nuestros análisis de datos.
 
@@ -29,7 +29,6 @@ En la primera parte del libro, aprenderemos el lenguaje de programación R:
 
 1. La Sintaxis de R.
 2. Estructuras de Datos en R.
-
 3. Estructuras de Control en R.
 4. Funciones en R.5. Paquetes en R.
 
@@ -86,7 +85,7 @@ El siguiente libro dipone una página web, puedes acceder a esta página en <a h
 
 Para comentarios y erratas, envía un correo electrónico a <a href="mailto:ciencia.datos.con.r@gmail.com" target="_blank"><img src="https://i.imgur.com/PJGlEba.png"></a>.
 
-__Sigueme en:__
+__Sígueme en:__
 
 <a href="https://plus.google.com/+RubénSánchezSancho?hl=es" target="_blank"><img src="https://i.imgur.com/nFk0c7l.png"></a>
 <a href="https://www.linkedin.com/in/ruben-sanchez-sancho-767993139/" target="_blank"><img src="https://i.imgur.com/ccAeFjJ.png"></a>
