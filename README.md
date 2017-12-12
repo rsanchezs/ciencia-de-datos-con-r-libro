@@ -12,7 +12,7 @@ es ayudarte a aprender las herramientas mas importantes en R que te permitirán 
 Después de seguir este curso, dispondrás de los útiles necesarios para afrontar una amplia variedad de tareas en el análisis de datos, usando las mejores partes de R.</p>
 
 
-<p align="justify">Definitivamente se trata del <strong>libro en español más completo y exhaustivo</strong> que encontrarás sobre análisis de datos con R. Perfectamente organizado y metódico, introduce todos los temas de forma sencilla, gradual y 100% práctica. sino también usa el mismo material desarrollado como parte del curso en <a href=https://www.udemy.com/ciencia-de-datos-con-r target="_blank">Ciencia de Datos con R</a> de la plataforma Udemy</p>
+<p align="justify">Definitivamente, se trata del <strong>libro en español más completo y exhaustivo</strong> que encontrarás sobre análisis de datos con R. Perfectamente organizado y metódico, introduce todos los temas de forma sencilla, gradual y 100% práctica. </p>
 
 <p align="justify">Hay que mencionar, además que usa el mismo material desarrollado como parte del curso en <a href=https://www.udemy.com/ciencia-de-datos-con-r target="_blank">Ciencia de Datos con R</a> de la plataforma Udemy</p>
 
