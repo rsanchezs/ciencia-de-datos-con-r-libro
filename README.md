@@ -12,9 +12,9 @@ es ayudarte a aprender las herramientas mas importantes en R que te permitirán 
 Después de seguir este curso, dispondrás de los útiles necesarios para afrontar una amplia variedad de tareas en el análisis de datos, usando las mejores partes de R.</p>
 
 
-<p align="justify">No sólo es el <strong>libro en español más completo y exhaustivo</strong> que encontrarás sobre análisis de datos con R. Perfectamente organizado y metódico, introduce todos los temas de forma sencilla, gradual y 100% práctica, sino también usa el mismo material desarrollado como parte del curso en <a href=https://www.udemy.com/ciencia-de-datos-con-r target="_blank">Ciencia de Datos con R</a> de la plataforma Udemy</p>
+<p align="justify">Definitivamente se trata del <strong>libro en español más completo y exhaustivo</strong> que encontrarás sobre análisis de datos con R. Perfectamente organizado y metódico, introduce todos los temas de forma sencilla, gradual y 100% práctica. sino también usa el mismo material desarrollado como parte del curso en <a href=https://www.udemy.com/ciencia-de-datos-con-r target="_blank">Ciencia de Datos con R</a> de la plataforma Udemy</p>
 
-
+<p align="justify">Hay que mencionar, además que usa el mismo material desarrollado como parte del curso en <a href=https://www.udemy.com/ciencia-de-datos-con-r target="_blank">Ciencia de Datos con R</a> de la plataforma Udemy</p>
 
 ## ¿Que Aprenderás con Este Libro?
 
@@ -39,7 +39,7 @@ Después de seguir este curso, dispondrás de los útiles necesarios para afront
 4. Funciones en R.
 5. Paquetes en R.
 
-### Importar Datos en 
+### Importar Datos en R
 
 <p align="justify">En la segunda parte del libro trataremos las dos tareas de la fase de importar datos y que pasamos a analizar a continuación:</p>
 <p align="justify">En primer lugar, veremos como <strong>importar</strong> nuestros datos a R. Con esto queremos decir, que nos encontraremos datos almacenados en archivos, bases de datos, o en una API web, y el objetivo de esta tarea será cargar los datos en un dataframe.</p>
@@ -87,7 +87,7 @@ Después, visualizaremos y modelaremos nuestros datos. En este curso únicamente
 
 ## Contacto
 
-<p align="justify">El siguiente curso dipone una página web para el libro, puedes acceder a esta página en <a href="https://rsanchezs.gitbooks.io/ciencia-de-datos-con-r/content/" target="_blank">https://rsanchezs.gitbooks.io/ciencia-de-datos-con-r/content/</a></p>
+<p align="justify">El siguiente libro dipone una página web para el libro, puedes acceder a esta página en <a href="https://rsanchezs.gitbooks.io/ciencia-de-datos-con-r/content/" target="_blank">https://rsanchezs.gitbooks.io/ciencia-de-datos-con-r/content/</a></p>
 
 <p align="justify">Para comentarios y erratas, envía un correo electrónico a <a href="mailto:ciencia.datos.con.r@gmail.com" target="_blank"><img src="https://i.imgur.com/PJGlEba.png"></a>.</p>
 
